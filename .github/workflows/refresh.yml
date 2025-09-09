@@ -4,6 +4,7 @@ name: Refresh Github Pages
 on:
   schedule:
     - cron:  '0 3 1 * *' # Runs first day of every month at 3am
+  workflow_dispatch:
 
 jobs:
   refresh:
