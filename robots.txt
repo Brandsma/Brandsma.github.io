@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abebrandsma.com/sitemap.xml

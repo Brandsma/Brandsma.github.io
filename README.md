@@ -1,24 +1,13 @@
-# rafa-frontend
+# brandsma.github.io - Redirect Page
 
-## Project setup
-```
-npm install
-```
+This repository now serves as a simple, fast-loading redirect page to my main portfolio at [abebrandsma.com](https://abebrandsma.com).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Purpose
 
-### Compiles and minifies for production
-```
-npm run build
-```
+The primary goal of this page is to seamlessly redirect all visitors (both human and search engine crawlers) to my current portfolio. It is designed to be minimal, fast, and SEO-friendly, ensuring a good user experience and proper indexing.
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Historical Context
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Previously, this repository hosted a project for the **RAFA hackathon** during **Hackatrain 2019**. The project was built with Vue.js but is no longer functional due to outdated dependencies and legacy code.
+
+To maintain a clean and professional online presence, the old project has been replaced with this redirect page. This ensures that anyone visiting this old URL will be directed to my up-to-date work.
